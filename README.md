@@ -78,9 +78,7 @@ Frontend rodando em: http://localhost:5173
 ## 📷 Prints do Projeto
 
 ### 🔙 Backend (Laravel)
-![Backend Laravel](print/listagem.png)
+![Backend Laravel](../API_REST/listagem.png)
 
 ### 🔜 Frontend (React)
-![Frontend React](print/cadastro.png)
-
-
+![Frontend React](../API_REST/cadastro.png)
