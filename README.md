@@ -24,8 +24,8 @@ Este projeto é um CRUD completo com **backend em Laravel** e **frontend em Reac
 
 ## 📂 Estrutura de Pastas
 
-│── apirest-backend/ # API RESTful feita em Laravel
-│── apirest-frontend/ # CRUD feito em React.js
+│── apirest-backend/ API RESTful feita em Laravel
+│── apirest-frontend/ CRUD feito em React.js
 
 
 ---
@@ -78,9 +78,9 @@ Frontend rodando em: http://localhost:5173
 ## 📷 Prints do Projeto
 
 ### 🔙 Backend (Laravel)
-![Backend Laravel](listagem.png)
+![Backend Laravel](print/listagem.png)
 
 ### 🔜 Frontend (React)
-![Frontend React](cadastro.png)
+![Frontend React](print/cadastro.png)
 
 
