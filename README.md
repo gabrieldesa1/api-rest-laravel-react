@@ -25,6 +25,7 @@ Este projeto é um CRUD completo com **backend em Laravel** e **frontend em Reac
 ## 📂 Estrutura de Pastas
 
 │── apirest-backend/ API RESTful feita em Laravel
+
 │── apirest-frontend/ CRUD feito em React.js
 
 
