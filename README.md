@@ -30,27 +30,14 @@ Este projeto é um CRUD completo com **backend em Laravel** e **frontend em Reac
 
 ---
 
-## 🔧 Como rodar o projeto
+## 📷 Prints do Projeto
 
-### Backend (Laravel)
-```bash
-cd apirest-backend
-composer install
-cp .env.example .env   # configure o banco de dados
-php artisan key:generate
-php artisan migrate --seed
-php artisan serve
+### 🔙 Backend (Laravel)
+![Backend Laravel](listagem.png)
 
 
-API rodando em: http://127.0.0.1:8000
-
-Frontend (React)
-cd apirest-frontend
-npm install
-npm run dev
-
-
-Frontend rodando em: http://localhost:5173
+### 🔜 Frontend (React)
+![Frontend React](cadastro.png)
 
 📌 Funcionalidades
 
@@ -75,10 +62,26 @@ Frontend rodando em: http://localhost:5173
 
     No desktop, o layout é centralizado com largura fixa.
 
-## 📷 Prints do Projeto
+## 🔧 Como rodar o projeto
 
-### 🔙 Backend (Laravel)
-![Backend Laravel](../API_REST/listagem.png)
+### Backend (Laravel)
+```bash
+cd apirest-backend
+composer install
+cp .env.example .env   # configure o banco de dados
+php artisan key:generate
+php artisan migrate --seed
+php artisan serve
 
-### 🔜 Frontend (React)
-![Frontend React](../API_REST/cadastro.png)
+
+API rodando em: http://127.0.0.1:8000
+
+
+Frontend (React)
+cd apirest-frontend
+npm install
+npm run dev
+
+
+Frontend rodando em: http://localhost:5173
+
